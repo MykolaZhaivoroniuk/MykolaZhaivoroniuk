@@ -5,10 +5,7 @@ Sincere developer who values credit.
 
 Skill Set:
 🌱 Backend - Node, PHP | Laravel, Python | Django
-
 📫 Frontend - React | Next, Angular, Vue | Nuxt
-
 💞️ Database - MongoDB, Mysql, PostgreSQL, SQLite, Apache Solr
-
 👀 Other - Git, Github, AWS, Docker, Restfull API, GraphQL, ChatGPT, Figma, Invision ...
 
